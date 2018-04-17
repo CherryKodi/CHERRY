@@ -15,29 +15,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.kabarety"
-version="1.0"
-name="Kabarety"
-provider-name="GalAnonim">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Kabarety Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z kabaretami</description>
-  <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością tworzymyhistorie.pl. Wtyczka tworzona na potrzeby prywatne.</disclaimer>
-  <assets>
-    <icon>icon.png</icon>
-  </assets>
-  <news></news>
-</extension>
-</addon>
-
 <addon id="plugin.video.anime"
 version="1.3"
 name="Anime"
@@ -105,6 +82,29 @@ provider-name="GalAnonim">
   <news>
  </news>
   </extension>
+</addon>
+
+<addon id="plugin.video.kabarety"
+version="1.0"
+name="Kabarety"
+provider-name="GalAnonim">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.resolveurl" />
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Kabarety Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z kabaretami</description>
+  <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością tworzymyhistorie.pl. Wtyczka tworzona na potrzeby prywatne.</disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+  </assets>
+  <news></news>
+</extension>
 </addon>
 
 <addon id="plugin.video.kreskowki"
@@ -235,7 +235,7 @@ provider-name="GalAnonim">
     <icon>icon.jpg</icon>
     <fanart>fanart.jpg</fanart>
   </assets>
-  <news>cookies fix</news>
+  <news>fix</news>
 </extension>
 </addon>
 
@@ -289,11 +289,11 @@ provider-name="Nieznany">
 </extension>
 </addon>
 
-<addon id="repository.cherrytv" name="[I][COLOR=blue]CHERRY[/COLOR] [COLOR=red]TV[/COLOR][/I] Repository" provider-name="KODI CHERRY" version="1.3.0">
+<addon id="repository.cherrytv" name="[I][COLOR=blue]CHERRY[/COLOR] [COLOR=red]TV[/COLOR][/I] Repository" provider-name="KODI CHERRY" version="1.3.1">
   <extension point="xbmc.addon.repository">
-    <info>http://cherrytv.webd.pl/CHERRY/addons.xml</info>
-    <checksum>http://cherrytv.webd.pl/CHERRY/addons.xml.md5</checksum>
-    <datadir zip="true">http://cherrytv.webd.pl/CHERRY/</datadir>
+    <info>https://raw.githubusercontent.com/CherryKodi/CHERRY/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/CherryKodi/CHERRY/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://github.com/CherryKodi/CHERRY/raw/master/zips</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">CHERRY TV Repository</summary>
@@ -301,7 +301,7 @@ provider-name="Nieznany">
 	<disclaimer lang="en">Kodi jest programem darmowym. Wtyczki, które są zawarte w projekcie CHERRY TV  są również darmowe i powszechnie dostępne w internecie dla każdego.
 CHERRY TV nie dostarcza bezpośrednio telewizji, filmów, seriali, muzyki ani żadnych treści audio/wideo. CHERRY TV nie udostepnia telewizji online,korzysta jedynie z kont premium udostepnionych w sieci.Jest jedynie zbiorem wtyczek. Projekt ten ma jedynie ułatwić użytkownikowi ustawianie programu Kodiczy instalacje wtyczek . Jeżeli dana wtyczka nie działa zgodnie z założeniem należny kontaktować się z jej autorem. Jeżeli stan taki się utrzymuje dłużnej może zostać taka wtyczka usunięta oraz będzie szukana alternatywa.
 </disclaimer>
-    <website>https://www.youtube.com/channel/UCrt7prcqcMO0k90xxh9snoA</website>
+    <website>https://cherrytv.webd.pl/</website>
     <platform>all</platform>
   </extension>
 </addon>
@@ -332,7 +332,7 @@ CHERRY TV nie dostarcza bezpośrednio telewizji, filmów, seriali, muzyki ani ż
   </extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.07" provider-name="jsergio">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.09" provider-name="jsergio">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" optional="true" />
