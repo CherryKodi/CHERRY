@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.program.cherrytv" name="Cherry TV Wizard" version="1.7.2" provider-name="Kodi Cherry ">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Cherry TV Wizard</summary>
+    <description lang="en">CHERRY TV Wizard allows you to gain access to the latest CHERRY TV Custom Builds.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.kabarety"
+version="1.0"
+name="Kabarety"
+provider-name="GalAnonim">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.resolveurl" />
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Kabarety Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z kabaretami</description>
+  <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością tworzymyhistorie.pl. Wtyczka tworzona na potrzeby prywatne.</disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+  </assets>
+  <news></news>
+</extension>
+</addon>
+
+<addon id="plugin.video.anime"
+version="1.3"
+name="Anime"
+provider-name="GalAnonim">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.resolveurl" />
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Anime Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z anime</description>
+  <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością AnimeZone. Wtyczka tworzona na potrzeby prywatne.</disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>pierwsza wersja</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.cherrytv" name="Cherry TV Player" version="0.0.2" provider-name="KodiCherry">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Cherry TV Player</summary>
+    <summary lang="he">Cherry TV Player</summary>
+    <description lang="en">Cherry TV Player</description>
+    <description lang="he">Cherry TV Player</description>
+    <platform>all</platform>
+	<news>
+	</news>
+  </extension>
+</addon>
+
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="1.0" provider-name="GalAnonim">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.urlresolver" version="3.0.15"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="pl">Mecze ekstraklasy z dailymotion i nie tylko</summary>
+    <description lang="en">Ekstraklasa,</description>
+	<disclaimer lang="en">Wtyczka tworzona na użytek prywatny, autor nie odpowiada za jej nieodpowienie wykorzystywanie oraz rozpowszechnianie! Wszystkie treści multimedialne są własnością stron z odczytaną zawartością! Kod pochodzi od RamicSPA</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  <news>
+ </news>
+  </extension>
+</addon>
+
+<addon id="plugin.video.kreskowki"
+version="1.3"
+name="Kreskowki"
+provider-name="GalAnonim">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.resolveurl" />
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Kreskowki Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z kreskówkami</description>
+  <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością KreskowkaZone. Wtyczka tworzona na potrzeby prywatne.</disclaimer>
+  <assets>
+    <icon>icon.jpg</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>Poprawilem nazwy odcinkow :)</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.montypython"
+version="1.0"
+name="MontyPython"
+provider-name="GalAnonim">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.urlresolver" />
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">MontyPython Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z odcinkami MontyPython</description>
+  <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością Monty-Python.org</disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.png</fanart>
+    <screenshot>resources\screenshot-01.jpg</screenshot>
+    <screenshot>resources\screenshot-02.jpg</screenshot>
+    <screenshot>resources\screenshot-03.jpg</screenshot>
+  </assets>
+  <news>Pierwsza wersja :)</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.musictv"
+       name="MusicTV"
+       version="1.0.5"
+       provider-name="DOKI TV">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.1.1"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+    <import addon="script.module.simplejson" />
+    <import addon="script.common.plugin.cache" />
+    <import addon="script.module.liveresolver" />
+
+
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">MusicTV for XBMC/Kodi!</summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.sport365.live" name="Sport365" version="1.0" provider-name="GalAnonim">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="service.cronxbmc" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Sport365</summary>
+    <description lang="en">Sport365</description>
+    <disclaimer lang="en">Wtyczka tworzona na użytek prywatny, autor nie odpowiada za jej nieodpowienie wykorzystywanie oraz rozpowszechnianie! Wszystkie treści multimedialne są własnością strony sport365.live! Kod pochodzi od RamicSPA</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.png</fanart>
+  </assets>
+  <news>
+   Pierwsza wersja :)
+  </news>
+  </extension>
+</addon>
+
+<addon id="plugin.video.strefadb"
+version="1.4"
+name="StrefaDB"
+provider-name="GalAnonim">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.resolveurl" />
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">StrefaDB Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z odcinkami Dragon Ball. Aby obejrzeć treści wideo należy założyć konto na strefadb.pl</description>
+  <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością strefadb.pl</disclaimer>
+  <assets>
+    <icon>icon.jpg</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>cookies fix</news>
+</extension>
+</addon>
+
+<addon
+    id="plugin.video.TVP.pl"
+    name="TVP.pl"
+    version="1.5.3"
+    provider-name="Michal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">...</summary>
+    <description lang="en">Zasoby tvp.pl oraz vod.tvp.pl</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.webcamera"
+version="1.1"
+name="Kamerki online"
+provider-name="Nieznany">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Kamerki Online Plugin Wideo</summary>
+  <description lang="en_GB">Wtyczka tworzona na użytek prywatny, autor nie odpowiada za jej niedowzolone wykorzystywanie oraz rozpowszechnianie!</description>
+  <disclaimer lang="en_GB"></disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news></news>
+</extension>
+</addon>
+
+<addon id="repository.cherrytv" name="[I][COLOR=blue]CHERRY[/COLOR] [COLOR=red]TV[/COLOR][/I] Repository" provider-name="KODI CHERRY" version="1.3.0">
+  <extension point="xbmc.addon.repository">
+    <info>http://cherrytv.webd.pl/CHERRY/addons.xml</info>
+    <checksum>http://cherrytv.webd.pl/CHERRY/addons.xml.md5</checksum>
+    <datadir zip="true">http://cherrytv.webd.pl/CHERRY/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">CHERRY TV Repository</summary>
+    <description lang="en">"CHERRY TV"  podlega prawom własności intelektualnej należącym do KODI CHERRY.CHERRY TV nie udostepnia telewizji online,korzysta jedynie z kont premium udostepnionych w sieci.Zabrania się sprzedażny i rozpowszechniania.</description>
+	<disclaimer lang="en">Kodi jest programem darmowym. Wtyczki, które są zawarte w projekcie CHERRY TV  są również darmowe i powszechnie dostępne w internecie dla każdego.
+CHERRY TV nie dostarcza bezpośrednio telewizji, filmów, seriali, muzyki ani żadnych treści audio/wideo. CHERRY TV nie udostepnia telewizji online,korzysta jedynie z kont premium udostepnionych w sieci.Jest jedynie zbiorem wtyczek. Projekt ten ma jedynie ułatwić użytkownikowi ustawianie programu Kodiczy instalacje wtyczek . Jeżeli dana wtyczka nie działa zgodnie z założeniem należny kontaktować się z jej autorem. Jeżeli stan taki się utrzymuje dłużnej może zostać taka wtyczka usunięta oraz będzie szukana alternatywa.
+</disclaimer>
+    <website>https://www.youtube.com/channel/UCrt7prcqcMO0k90xxh9snoA</website>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.module.requests"
+       name="requests"
+       version="2.18.4"
+       provider-name="kennethreitz">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.urllib3" version="1.22"/>
+    <import addon="script.module.chardet" version="3.0.4"/>
+    <import addon="script.module.idna" version="2.6"/>
+    <import addon="script.module.certifi" version="2017.07.27.1"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Python HTTP for Humans</summary>
+    <description lang="en_GB">Packed for KODI from https://github.com/requests/requests</description>
+    <platform>all</platform>
+    <language></language>
+    <license>Apache2</license>
+    <forum></forum>
+    <website>http://python-requests.org</website>
+    <source>https://github.com/beenje/script.module.requests</source>
+    <email>beenje AT gmail.com</email>
+  </extension>
+</addon>
+
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.07" provider-name="jsergio">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="plugin.video.youtube" optional="true" />
+		<import addon="script.module.python.twitch" optional="true" />
+		<import addon="script.module.cryptopy" version="1.2.6" optional="true" />
+		<import addon="plugin.video.gdrive" optional="true" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.python.pluginsource" library="lib/default.py" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Resolve common video host URL's to be playable in XBMC/Kodi.</summary>
+		<summary lang="es">Resolver enlaces a videos de sitios populares para poder reproducirlos en XBMC/Kodi.</summary>
+		<summary lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju.</summary>
+		<description lang="en">Resolve common video host URL's to be playable in XBMC/Kodi, simplify addon development of video plugins requiring multi video hosts.</description>
+		<description lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju, pojednostavnjuje razvoj priključaka za video dodatke koji zahtjevaju višestruke video izvore.</description>
+	</extension>
+</addon>
+
+<addon id="script.module.urlresolver" name="URLResolver" version="4.0.17" provider-name="Eldorado, tknorris, tvaddons">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="plugin.video.youtube" optional="true" />
+		<import addon="script.module.python.twitch" optional="true" />
+		<import addon="script.module.cryptopy" version="1.2.6" optional="true" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.python.pluginsource" library="lib/default.py" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Resolve common video host URL's to be playable in XBMC/Kodi.</summary>
+		<summary lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju.</summary>
+		<description lang="en">Resolve common video host URL's to be playable in XBMC/Kodi, simplify addon development of video plugins requiring multi video hosts.</description>
+		<description lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju, pojednostavnjuje razvoj priključaka za video dodatke koji zahtjevaju višestruke video izvore.</description>
+        <forum>https://www.tvaddons.co/forums</forum>
+        <website>https://www.tvaddons.co</website>
+	</extension>
+</addon>
+
+<addon id="skin.cherrytv" version="0.0.1" name="Cherry TV Nox 5" provider-name="KodiCherry">
+	<requires>
+		<import addon="xbmc.gui" version="5.12.0"/>
+		<import addon="script.grab.fanart" version="0.12.8"/>
+		<import addon="script.skinshortcuts" version="1.0.10"/>
+		<import addon="service.library.data.provider" version="0.0.7"/>
+		<import addon="resource.images.studios.white" version="0.0.1"/>
+		<import addon="resource.images.recordlabels.white" version="0.0.1"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="0.75">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="16x9" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de_DE">Erstellt von BigNoid, modifiziert von KodiCherry, Widgets von Mr. V</summary>
+		<summary lang="el_GR">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="en_AU">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="en_GB">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="en_NZ">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="en_US">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="es_ES">Creada por BigNoid, Modificada por KodiCherry, y Widgets por Mr. V</summary>
+		<summary lang="fi_FI">BigNoidin tekemä ja KodiCherryn muokkaama. Widgetit Mr. V:ltä</summary>
+		<summary lang="fr_CA">Créé par BigNoid, modifié by KodiCherry, et widgets par Mr. V</summary>
+		<summary lang="fr_FR">Créé par BigNoid, Moddé par KodiCherry, avec les widgets de Mr V</summary>
+		<summary lang="gl_ES">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="he_IL">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="hu_HU">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="is_IS">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="it_IT">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="ko_KR">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="lt_LT">Sukūrė BigNoid, modifikavo KodiCherry bei valdiklius pridėjo Mr. V</summary>
+		<summary lang="ms_MY">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="nb_NO">Skapt av BigNoid, modifisert av KodiCherry, og Widgets av Mr. V.</summary>
+		<summary lang="nl_NL">Ontwikkeld door BigNoid, aangepast door KodiCherry, en Widgets door Mr. V</summary>
+		<summary lang="pl_PL">Stworzona przez BigNoid, zmodyfikowana przez KodiCherry, a gadżety autorstwa Mr. V</summary>
+		<summary lang="pt_BR">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="pt_PT">Criado por BigNoid, Modded por KodiCherry, e Widgets por Mr. V</summary>
+		<summary lang="ro_RO">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="ru_RU">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="sk_SK">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="sv_SE">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="th_TH">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<summary lang="tr_TR">BigNoid tarafından oluşturuldu; Modlar KodiCherry'dan, Widget'lar Mr. V'den.</summary>
+		<summary lang="vi_VN">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V - Sự trở về</summary>
+		<summary lang="zh_CN">Created by BigNoid, Modded by Silvio/KodiCherry, and Widgets by Mr. V</summary>
+		<description lang="de_DE">Komplett neu designed für ein modernes Aussehen und das klassische Aeon-Feeling beizubehalten.</description>
+		<description lang="el_GR">Πλήρως επανασχεδιασμένο για να προσφέρει μια μοντέρνα αισθητική, διατηρώντας ταυτόχρονα την κλασική ομορφιά του Aeon.</description>
+		<description lang="en_AU">Completely redesigned to create a modern look, while retaining the classic Aeon feel.</description>
+		<description lang="en_GB">Completely redesigned to create a modern look, while retaining the classic Aeon feel.</description>
+		<description lang="en_NZ">Completely redesigned to create a modern look, while retaining the classic Aeon feel.</description>
+		<description lang="en_US">Completely redesigned to create a modern look, while retaining the classic Aeon feel.</description>
+		<description lang="es_ES">Completamente rediseñado para crear un aspecto moderno, pero conservando el toque clásico Aeon.</description>
+		<description lang="fi_FI">Täysin uudelleensuunniteltu moderni ulkoasu, kuitenkin tuntuen klassiselta Aeonilta.</description>
+		<description lang="fr_CA">Complètement remanié pour créer une apparence moderne, tout en conservant l'esprit classique d'Aeon.</description>
+		<description lang="fr_FR">Totalement revu pour créer un look moderne, en gardant l'expérience Aeon.</description>
+		<description lang="he_IL">עיצוב חדש היוצר מראה מודרני אך משמר את ההרגשה של Aeon הקלאסי.</description>
+		<description lang="hr_HR">Potpuno preoblikovan moderan izgled, uz zadržani klasični Aeon osjećaj.</description>
+		<description lang="hu_HU">Teljesen áttervezett modern kinézet, de megtartva a klasszikus Aeon érzetet.</description>
+		<description lang="is_IS">Endurhannað nútímalegt útlit í anda Aeon.</description>
+		<description lang="it_IT">Completamente ridisegnato per creare un look moderno, mantenendo la consueta qualità Aeon.</description>
+		<description lang="ko_KR">고전적인 Aeon 느낌을 유지하면서 현대적인 모습으로 완전히 다시 디자인하여 만들었습니다.</description>
+		<description lang="lt_LT">Pilnai atnaujinta, kad sukurtų modernią išvaizdą, išlaikant klasikinio Aeon pojūtį.</description>
+		<description lang="ms_MY">Direka semula sepenuhnya untuk hasilkan penampilan modern, tetapi masih mengekalkan penampilan Aeon klasik.</description>
+		<description lang="nb_NO">Helt redesignet for å gi deg en moderne utforming, samtidig som man beholder den klassiske Aeon følelsen.</description>
+		<description lang="nl_NL">Volledig opnieuw ontworpen om een ​​moderne look te creëren, met behoud van het klassieke Aeon gevoel.</description>
+		<description lang="pl_PL">Całkowicie przeprojektowana skóra Aeon, o nowoczesnym wyglądzie, zachowując klasyczny układ skóry Aeon.</description>
+		<description lang="pt_BR">Design completamente novo para criar um look moderno, mantendo o feeling do Aeon Clássico.</description>
+		<description lang="pt_PT">Completamente redesenhado para criar um visual moderno enquanto retém o toque clássico Aeon.</description>
+		<description lang="ro_RO">Complet reproiectat pentru a crea o înfățișare modernă, dar totuși păstrând atmosfera clasică Aeon.</description>
+		<description lang="ru_RU">полностью переделенная, модернизированная классическая обложка Aeon.</description>
+		<description lang="sk_SK">Kompletne prepracovaný dizajn s moderným vzhľadom pri zachovaní klasického štýlu Aeon.</description>
+		<description lang="sv_SE">Totalt omarbetad för att skapa ett modernt utseende, samtidigt som man behåller den klassiska Aeon-känslan.</description>
+		<description lang="th_TH">การออกแบบใหม่หมดจด เพื่อสร้างรูปลักษณ์ทันสมัย, ​​ขณะที่ยังคงความรู้สึกคลาสสิคของ Aeon.</description>
+		<description lang="tr_TR">Modern görünüme kavuşturmak için baştan tasarlandı, klasik Aeon hissi korundu</description>
+		<description lang="vi_VN">Thiết kế lại hoàn toàn để tạo nên một phong cách hiện đại, trong khi đó vẫn duy trì một cảm giác Aeon cổ điển.</description>
+		<platform>all</platform>
+		<license>CC BY-NC-SA 4.0</license>
+		<forum>https://www.facebook.com/kodicherrykodi</forum>
+		<website>https://sites.google.com/view/cherrytv/</website>
+		<source>https://www.facebook.com/kodicherrykodi</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-05.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-06.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-07.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-08.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-09.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-10.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-11.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-12.jpg</screenshot>
+		</assets>
+		<news>[B]Based on [I]v6.0.1[/I]  of Aeon Nox 5[/B][CR][I]All Versions[/I][CR]- Misc fixes, changes, and improvements[CR][I]v6.0.5[/I][CR]- Fix color customization not opening[CR]- Small redesign of DialogVideoInfo[CR]- Add and fix some Widget plugin paths[CR]- Revert PNG changes that altered panel colors[CR]- Add support for animated weather icons[CR]- Add background selection to Music Viz[CR]- Add LibreELEC to settings[CR][I]v6.0.4[/I][CR]- Compatibility updates for new Skin Helper version[CR]- Add manfeeds Video Lyrics mod v2 (thanks manfeed)[CR]- Add option to hide player control buttons on Music OSD[CR]- Redesigned System Settings screen[CR]- New logo (thanks GTunney!)[CR][I]v6.0.3[/I][CR]- Add player controls to sidemenu[CR]- Add option to disable Widget fanart[CR]- Shuffle skin settings with added catagories[CR]- Add FAQ in Help section[CR]- Add option to hide Home Window elements when pressing back[CR]- Add option to use paused label instead of image[CR]- Add snow to Music Viz background[CR][CR]For a full list of changes visit https://github.com/mikeKodiCherry164/Aeon-Nox-KodiCherry/commits/master</news>
+	</extension>
+</addon>
+
+<addon id="skin.cherrytv18" version="6.1.2" name="Cherry TV 18 AEON NOX" provider-name="SiLVO/KodiCherry">
+	<requires>
+		<import addon="xbmc.gui" version="5.13.0"/>
+		<import addon="script.grab.fanart" version="0.12.8"/>
+		<import addon="script.skinshortcuts" version="1.0.10"/>
+		<import addon="service.library.data.provider" version="0.0.7"/>
+		<import addon="resource.images.studios.white" version="0.0.1"/>
+		<import addon="resource.images.recordlabels.white" version="0.0.1"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="0.75">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="16x9" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de_DE">Erstellt von BigNoid, modifiziert von SiLVO,Kodi Cherry Widgets von Mr. V</summary>
+		<summary lang="el_GR">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="en_AU">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="en_GB">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="en_NZ">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="en_US">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="es_ES">Creada por BigNoid, Modificada por SiLVO,Kodi Cherry y Widgets por Mr. V</summary>
+		<summary lang="fi_FI">BigNoidin tekemä ja SILVOn muokkaama. Widgetit Mr. V:ltä</summary>
+		<summary lang="fr_CA">Créé par BigNoid, modifié by SiLVO,Kodi Cherry et widgets par Mr. V</summary>
+		<summary lang="fr_FR">Créé par BigNoid, Moddé par SiLVO,Kodi Cherry avec les widgets de Mr V</summary>
+		<summary lang="gl_ES">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="he_IL">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="hu_HU">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="is_IS">Útbúið af BigNoid, breytt af SiLVO,Kodi Cherry viðmótshlutar eftir Mr. V</summary>
+		<summary lang="it_IT">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="ko_KR">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="lt_LT">Sukūrė BigNoid, modifikavo SiLVO bei valdiklius pridėjo Mr. V</summary>
+		<summary lang="ms_MY">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="nb_NO">Laget av BigNoid, modifisert av SiLVO,Kodi Cherry og miniprogrammer av Mr. V.</summary>
+		<summary lang="nl_NL">Ontwikkeld door BigNoid, aangepast door SiLVO,Kodi Cherry en Widgets door Mr. V</summary>
+		<summary lang="pl_PL">Stworzona przez BigNoid, zmodyfikowana przez SiLVO,Kodi Cherry a gadżety autorstwa Mr. V</summary>
+		<summary lang="pt_BR">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="pt_PT">Criado por BigNoid, Modded por SiLVO,Kodi Cherry e Widgets por Mr. V</summary>
+		<summary lang="ro_RO">Creat de BigNoid, Modificat de SiLVO,Kodi Cherry și widget-uri deMr. V</summary>
+		<summary lang="ru_RU">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="sk_SK">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="sv_SE">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="th_TH">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="tr_TR">BigNoid tarafından oluşturuldu; Modlar SILVO'dan, Widget'lar Mr. V'den.</summary>
+		<summary lang="vi_VN">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V - Sự trở về</summary>
+		<summary lang="zh_CN">Created by BigNoid, Modded by SiLVO,Kodi Cherry and Widgets by Mr. V</summary>
+		<summary lang="zh_TW">由BigNoid原創，SiLVO進行改造，以及由Mr. V製作的小工具</summary>
+		<description lang="de_DE">Komplett neu designed für ein modernes Aussehen und das klassische Aeon-Feeling beizubehalten.</description>
+		<description lang="el_GR">Πλήρως επανασχεδιασμένο για να προσφέρει μια μοντέρνα αισθητική, διατηρώντας ταυτόχρονα την κλασική ομορφιά του Aeon.</description>
+		<description lang="en_AU">Completely redesigned to create a modern look, while retaining the classic Aeon feel.</description>
+		<description lang="en_GB">Completely redesigned to create a modern look, while retaining the classic Aeon feel.</description>
+		<description lang="en_NZ">Completely redesigned to create a modern look, while retaining the classic Aeon feel.</description>
+		<description lang="en_US">Completely redesigned to create a modern look, while retaining the classic Aeon feel.</description>
+		<description lang="es_ES">Completamente rediseñado para crear un aspecto moderno, pero conservando el toque clásico Aeon.</description>
+		<description lang="fi_FI">Täysin uudelleensuunniteltu moderni ulkoasu, kuitenkin tuntuen klassiselta Aeonilta.</description>
+		<description lang="fr_CA">Complètement remanié pour créer une apparence moderne, tout en conservant l'esprit classique d'Aeon.</description>
+		<description lang="fr_FR">Totalement revu pour créer un look moderne, en gardant l'expérience Aeon.</description>
+		<description lang="gl_ES">Redeseñado completamente para crear unha aparencia moderna ao tempo que mantén a sensación do clásico Aeon.</description>
+		<description lang="he_IL">עיצוב חדש היוצר מראה מודרני אך משמר את ההרגשה של Aeon הקלאסי.</description>
+		<description lang="hr_HR">Potpuno preoblikovan moderan izgled, uz zadržani klasični Aeon osjećaj.</description>
+		<description lang="hu_HU">Teljesen áttervezett modern kinézet, de megtartva a klasszikus Aeon érzetet.</description>
+		<description lang="is_IS">Endurhannað nútímalegt útlit í anda Aeon.</description>
+		<description lang="it_IT">Completamente ridisegnato per creare un look moderno, mantenendo la consueta qualità Aeon.</description>
+		<description lang="ko_KR">고전적인 Aeon 느낌을 유지하면서 현대적인 모습으로 완전히 다시 디자인하여 만들었습니다.</description>
+		<description lang="lt_LT">Pilnai atnaujinta, kad sukurtų modernią išvaizdą, išlaikant klasikinio Aeon pojūtį.</description>
+		<description lang="ms_MY">Direka semula sepenuhnya untuk hasilkan penampilan modern, tetapi masih mengekalkan penampilan Aeon klasik.</description>
+		<description lang="nb_NO">Helt redesignet for å tilby en moderne utforming, samtidig som den klassiske Aeon-følelsen er beholdt.</description>
+		<description lang="nl_NL">Volledig opnieuw ontworpen om een ​​moderne look te creëren, met behoud van het klassieke Aeon gevoel.</description>
+		<description lang="pl_PL">Całkowicie przeprojektowana skóra Aeon, o nowoczesnym wyglądzie, zachowując klasyczny układ skóry Aeon.</description>
+		<description lang="pt_BR">Design completamente novo para criar um look moderno, mantendo o feeling do Aeon Clássico.</description>
+		<description lang="pt_PT">Completamente redesenhado para criar um visual moderno enquanto retém o toque clássico Aeon.</description>
+		<description lang="ro_RO">Complet reproiectat pentru a crea o înfățișare modernă, dar totuși păstrând atmosfera clasică Aeon.</description>
+		<description lang="ru_RU">полностью переделенная, модернизированная классическая обложка Aeon.</description>
+		<description lang="sk_SK">Kompletne prepracovaný dizajn s moderným vzhľadom pri zachovaní klasického štýlu Aeon.</description>
+		<description lang="sv_SE">Totalt omarbetad för att skapa ett modernt utseende, samtidigt som man behåller den klassiska Aeon-känslan.</description>
+		<description lang="th_TH">การออกแบบใหม่หมดจด เพื่อสร้างรูปลักษณ์ทันสมัย, ​​ขณะที่ยังคงความรู้สึกคลาสสิคของ Aeon.</description>
+		<description lang="tr_TR">Modern görünüme kavuşturmak için baştan tasarlandı, klasik Aeon hissi korundu</description>
+		<description lang="vi_VN">Thiết kế lại hoàn toàn để tạo nên một phong cách hiện đại, trong khi đó vẫn duy trì một cảm giác Aeon cổ điển.</description>
+		<description lang="zh_TW">完全的翻新設計以創造現代化的視覺感受，同時仍維持Aeon的經典外觀。</description>
+		<platform>all</platform>
+		<license>CC BY-NC-SA 4.0</license>
+		<forum>http://forum.kodi.tv/showthread.php?tid=210069</forum>
+		<website>https://github.com/mikesilvo164/Aeon-Nox-SiLVO</website>
+		<source>https://github.com/mikesilvo164/Aeon-Nox-SiLVO</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-05.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-06.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-07.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-08.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-09.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-10.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-11.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-12.jpg</screenshot>
+		</assets>
+		<news>[B]Based on [I]v6.0.1[/I]  of Aeon Nox 5[/B][CR][I]All Versions[/I][CR]- Misc fixes, changes, and/or improvements[CR][I]v6.1.2[/I][CR]- Move Video OSD buttons above seekbar[CR]- Update VideoLyrics mod (thanks manfeed)[CR]- Misc PVR fixes and adjustments[CR]- Resize FSK rating images to fit in DialogVideoInfo[CR]- Fixes for Rottentomatoes and Metacritic images and INFOlabels[CR]- Fullscreen Info updates, fixes, and changes[CR]- Use script.colorbox for blur in information dialogs[CR]- Rework DialogMusicInfo[CR][I]v6.1.1[/I][CR]- Fix custom Widget[CR][CR]For a full list of changes visit https://github.com/mikesilvo164/Aeon-Nox-SiLVO/commits/master</news>
+	</extension>
+</addon>
+
+<addon id="skin.fuse.neue" version="1.0.0" name="(fuse)neue" provider-name="jurialmunkey">
+    <requires>
+        <import addon="xbmc.gui" version="5.12.0"/>
+        <import addon="script.skinshortcuts" version="0.4.0"/>
+        <import addon="script.skin.helper.service" version="1.1.0"/>
+        <import addon="script.extendedinfo" version="3.0.0"/>
+        <import addon="script.toolbox" version="1.0.0"/>
+        <import addon="script.image.resource.select" version="0.0.5"/>
+        <import addon="plugin.program.autocompletion" version="1.0.1"/>
+        <import addon="resource.images.studios.white" version="0.0.10"/>
+        <import addon="resource.images.moviegenreicons.transparent" version="0.0.6"/>
+    </requires>
+    <extension point="xbmc.gui.skin" defaultthemename="Textures.xbt" debugging="false" effectslowdown="1">
+        <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i"/>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Soft gradients, pixel highlights and visible fanart</summary>
+        <description lang="en">(fuse)neue utilises low list viewtypes throughout the skin in order to showcase fanart. The home menu bar is accessible from anywhere by pressing up, minimising the need to ever "go home".</description>
+        <platform>all</platform>
+        <license>Creative Commons Non Commercial 3.0 License</license>
+        <forum/>
+        <source/>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <screenshot>resources/screenshot-01.jpg</screenshot>
+            <screenshot>resources/screenshot-02.jpg</screenshot>
+            <screenshot>resources/screenshot-03.jpg</screenshot>
+            <screenshot>resources/screenshot-04.jpg</screenshot>
+            <screenshot>resources/screenshot-05.jpg</screenshot>
+            <screenshot>resources/screenshot-06.jpg</screenshot>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="skin.hsk.konfluence" version="100.44" name="HSK Konfluence" provider-name="SchisM">
+	<requires>
+		<import addon="xbmc.gui" version="5.12.0"/>
+		<import addon="script.skinshortcuts" version="0.4.0" />
+		<import addon="plugin.program.autocompletion" version="1.0.1" />
+		<import addon="resource.images.studios.coloured" version="0.0.1" />
+		<import addon="script.skin.helper.service" version="1.0.100" />
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="0.75">
+		<res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Custom Made skin for easy Kodi</summary>
+		<description>Easy Skin Easy Kodi... based on axbmcuser Confluence mod</description>
+		<platform>all</platform>
+		<license/>
+		<forum>http://schism-tv.net</forum>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
+	</extension>
+</addon>
+</addons>
