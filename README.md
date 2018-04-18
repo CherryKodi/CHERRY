@@ -17,7 +17,7 @@
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.anime/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.anime/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>ANIME</td>
 <td>1.3</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.anime/" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.anime" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
