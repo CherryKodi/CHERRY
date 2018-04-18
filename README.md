@@ -31,28 +31,28 @@ rel="nofollow">2018-4-17</a></td>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kabarety/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kabarety/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>KABARETY</td>
 <td>1.0</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/plugin.video.kabarety" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.kabarety" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kreskowki/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kreskowki/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>KRESKÓWKI</td>
 <td>1.3</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/plugin.video.kreskowki" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.kreskowki" 
  rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>MONTYPYTHON</td>
 <td>1.0</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/plugin.video.montypython" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.montypython" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.sport365.live/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.sport365.live/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>SPORT365LIVE</td>
 <td>1.0</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/plugin.video.sport365.live" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.sport365.live" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -60,14 +60,14 @@ rel="nofollow">2018-4-17</a></td>
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.strefadb/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.strefadb/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>STREFADB</td>
 <td>1.4</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/plugin.video.strefadb" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.strefadb" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.webcamera/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.webcamera/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>WEBCAMERA</td>
 <td>1.1</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/plugin.video.webcamera" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.webcamera" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ rel="nofollow">2018-4-17</a></td>
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.cherrytv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.cherrytv/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>SKIN CHERRY TV</td>
 <td>0.0.1</td>
-<td><a href="https://raw.githubusercontent.com/CherryKodi/kodi/raw/master/zips/skin.cherrytv" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/skin.cherrytv" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ rel="nofollow">2018-4-17</a></td>
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.cherrytv18/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.cherrytv18/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>SKIN CHERRY TV 18</td>
 <td>6.1.2</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/skin.cherrytv18" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/skin.cherrytv18" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ rel="nofollow">2018-4-17</a></td>
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.fuse.neue/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.fuse.neue/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>SKIN FUSE NEUE</td>
 <td>1.0.0</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/skin.fuse.neue" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/skin.fuse.neue" 
  rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.fuse.neue/i
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.hsk.konfluence/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.hsk.konfluence/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>SKIN HSK KONFLUENCE</td>
 <td>100.44</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/skin.hsk.konfluence" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/skin.hsk.konfluence" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ rel="nofollow">2018-4-17</a></td>
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.musictv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.musictv/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>MUSIC TV</td>
 <td>1.0.5</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/plugin.video.musictv" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.musictv" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ rel="nofollow">2018-4-17</a></td>
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.TVP.pl/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.TVP.pl/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>TVP PL</td>
 <td>1.5.3</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/plugin.video.TVP.pl" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.TVP.pl" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ rel="nofollow">2018-4-17</a></td>
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.cherrytv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.cherrytv/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>CHERRY TV</td>
 <td>0.0.2</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/plugin.video.cherrytv" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.cherrytv" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ rel="nofollow">2018-4-17</a></td>
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.cherrytv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.cherrytv/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>REPOZYTORIUM CHERRY TV</td>
 <td>1.3.1</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/repository.cherrytv" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.cherrytv" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ rel="nofollow">2018-4-17</a></td>
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.cherrytv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.cherrytv/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>WIZARD CHERRY TV</td>
 <td>1.7.2</td>
-<td><a href="https://github.com/CherryKodi/kodi/raw/master/zips/plugin.program.cherrytv" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.program.cherrytv" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
   </div>
