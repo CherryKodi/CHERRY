@@ -584,9 +584,7 @@ https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.c
 </article>
   </div>
 
-  </div>
-
-  <button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
+<button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
   <div id="jump-to-line" style="display:none">
     <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
@@ -597,11 +595,6 @@ https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.c
   </div>
   <div class="modal-backdrop js-touch-events"></div>
 </div>
-
-    </div>
-  </div>
-
-  </div>
 
       
 <div class="footer container-lg px-3" role="contentinfo">
@@ -627,7 +620,6 @@ https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.c
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
 
     </ul>
-  </div>
   <div class="d-flex flex-justify-center pb-6">
     <span class="f6 text-gray-light"></span>
   </div>
@@ -658,12 +650,10 @@ https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.c
       <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
     </button>
   </div>
-</div>
 
   <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
   <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
   </div>
-</div>
 
 <div id="hovercard-aria-description" class="sr-only">
   Press h to open a hovercard with more details.
