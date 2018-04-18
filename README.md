@@ -580,21 +580,11 @@ https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.c
 <td>1.7.2</td>
 <td><a href="https://raw.githubusercontent.com/CherryKodi/kodi/master/zips/plugin.program.cherrytv/changelog.txt" rel="nofollow">2018-4-17</a></td>
 </tr>
-</tbody></table>
-</article>
   </div>
-
-<button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
-  <div id="jump-to-line" style="display:none">
       <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
       <button type="submit" class="btn">Go</button>
   <div class="modal-backdrop js-touch-events"></div>
-
-    <div class="footer container-lg px-3" role="contentinfo"></div>
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light"></div>
-    <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.19853s from unicorn-2959699437-jj5wd">GitHub</span>,Inc.</li>
-        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
         <li class="mr-3"><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
