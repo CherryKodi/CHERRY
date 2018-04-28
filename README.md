@@ -21,17 +21,11 @@
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.ekstraklasa/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.ekstraklasa/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>EXTRAKLASA</td>
-<td>1.0</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.ekstraklasa" 
-rel="nofollow">2018-4-17</a></td>
-</tr>
-<tr>
-<td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kabarety/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kabarety/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>KABARETY</td>
-<td>1.0</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.kabarety" 
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.strefadb/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.strefadb/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>STREFADB</td>
+<td>1.4</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.strefadb" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -42,10 +36,18 @@ rel="nofollow">2018-4-17</a></td>
  rel="nofollow">2018-4-28</a></td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>MONTYPYTHON</td>
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiPoPolsku/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiPoPolsku/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>BajkiPoPolsku</td>
 <td>1.0</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.montypython" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.BajkiPoPolsku" 
+rel="nofollow">2018-4-28</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.ekstraklasa/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.ekstraklasa/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>EXTRAKLASA</td>
+<td>1.0</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.ekstraklasa" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -56,11 +58,25 @@ rel="nofollow">2018-4-17</a></td>
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
+<td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>MONTYPYTHON</td>
+<td>1.0</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.montypython" 
+rel="nofollow">2018-4-17</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kabarety/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kabarety/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>KABARETY</td>
+<td>1.0</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.kabarety" 
+rel="nofollow">2018-4-17</a></td>
+</tr>
+<tr>
 <td><a target="_blank" href="
-https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.strefadb/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.strefadb/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>STREFADB</td>
-<td>1.4</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.strefadb" 
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.musictv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.musictv/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>MUSIC TV</td>
+<td>1.0.5</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.musictv" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
@@ -69,6 +85,62 @@ rel="nofollow">2018-4-17</a></td>
 <td>1.1</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.webcamera" 
 rel="nofollow">2018-4-17</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.TVP.pl/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.TVP.pl/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>TVP PL</td>
+<td>1.5.3</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.TVP.pl" 
+rel="nofollow">2018-4-17</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.fanfilm/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.fanfilm/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>Fan Film</td>
+<td>2018.04.23</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.fanfilm" 
+rel="nofollow">2018-4-28</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.cherrytv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.cherrytv/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>CHERRY TV</td>
+<td>0.0.2</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.cherrytv" 
+rel="nofollow">2018-4-17</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.kimshiu/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.kimshiu/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>REPOZYTORIUM KimShiu</td>
+<td>0.0.2</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.kimshiu" 
+rel="nofollow">2018-4-28</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.qwerx/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.qwerx/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>REPOZYTORIUM QWER</td>
+<td>0.0.3</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.qwerx" 
+rel="nofollow">2018-4-28</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.cherrytv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.cherrytv/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>REPOZYTORIUM CHERRY TV</td>
+<td>1.3.2</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.cherrytv" 
+rel="nofollow">2018-4-28</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.cherrytv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.cherrytv/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>WIZARD CHERRY TV</td>
+<td>1.7.4</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.program.cherrytv" 
+rel="nofollow">2018-4-28</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
@@ -102,52 +174,5 @@ https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.hsk.konflue
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/skin.hsk.konfluence" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
-<tr>
-<td><a target="_blank" href="
-https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.musictv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.musictv/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>MUSIC TV</td>
-<td>1.0.5</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.musictv" 
-rel="nofollow">2018-4-17</a></td>
-</tr>
-<tr>
-<td><a target="_blank" href="
-https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.TVP.pl/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.TVP.pl/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>TVP PL</td>
-<td>1.5.3</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.TVP.pl" 
-rel="nofollow">2018-4-17</a></td>
-</tr>
-<tr>
-<td><a target="_blank" href="
-https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.cherrytv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.cherrytv/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>CHERRY TV</td>
-<td>0.0.2</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.cherrytv" 
-rel="nofollow">2018-4-17</a></td>
-</tr>
-<tr>
-<td><a target="_blank" href="
-https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.cherrytv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.cherrytv/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>REPOZYTORIUM CHERRY TV</td>
-<td>1.3.1</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.cherrytv" 
-rel="nofollow">2018-4-17</a></td>
-</tr>
-<tr>
-<td><a target="_blank" href="
-https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.cherrytv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.cherrytv/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>WIZARD CHERRY TV</td>
-<td>1.7.2</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.program.cherrytv" 
-rel="nofollow">2018-4-17</a></td>
-</tr>
-<tr>
-<td><a target="_blank" href="
-https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiPoPolsku/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiPoPolsku/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>BajkiPoPolsku</td>
-<td>1.0</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.BajkiPoPolsku" 
-rel="nofollow">2018-4-28</a></td>
-</tr>
+
   </div>
