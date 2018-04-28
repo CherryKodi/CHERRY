@@ -37,9 +37,9 @@ rel="nofollow">2018-4-17</a></td>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kreskowki/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kreskowki/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>KRESKÓWKI</td>
-<td>1.3</td>
+<td>1.4</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.kreskowki" 
- rel="nofollow">2018-4-17</a></td>
+ rel="nofollow">2018-4-28</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png" width="48" style="max-width:100%;"></a></td>
