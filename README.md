@@ -52,14 +52,6 @@ https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.Baj
 rel="nofollow">2018-4-28</a></td>
 </tr>
 <tr>
-<td><a target="_blank" href="
-https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiOnline/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiOnline/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>BajkiOnline</td>
-<td>1.0</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.BajkiOnline" 
-rel="nofollow">2018-4-28</a></td>
-</tr>
-<tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.ekstraklasa/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.ekstraklasa/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>EXTRAKLASA</td>
 <td>1.0</td>
