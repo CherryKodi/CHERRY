@@ -142,4 +142,12 @@ https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.c
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.program.cherrytv" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
+<tr>
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiPoPolsku/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiPoPolsku/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>BajkiPoPolsku</td>
+<td>1.0</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.BajkiPoPolsku" 
+rel="nofollow">2018-4-28</a></td>
+</tr>
   </div>
