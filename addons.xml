@@ -233,7 +233,7 @@ provider-name=":)">
 </extension>
 </addon>
 
-<addon id="plugin.video.fanfilm.lite" name="FanFilm Lite - MrKnow" version="2018.04.23" provider-name="MrUnknow + T">
+<addon id="plugin.video.fanfilm.lite" name="FanFilm Lite - MrKnow" version="2018.04.26" provider-name="MrUnknow + T">
         <requires>
                 <import addon="xbmc.python" version="2.1.0" />
                 <import addon="script.module.requests"/>
@@ -250,13 +250,10 @@ provider-name=":)">
         <extension point="xbmc.service" library="service.py" start="startup" />
         <extension point="xbmc.addon.metadata">
                 <summary lang="pl">FanFilm Lite</summary>
-                <description lang="pl">Wtyczka została odnowiona przez Cherry TEAM. Mod przez T
-                </description>
-                <disclaimer lang="pl">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.
-                </disclaimer>
+		<description lang="pl">Plugin z filmami i serialami</description>
+		<disclaimer lang="pl">Wszelkie treści multimedialne są własnością serwisów trzecich. Wtyczka agreguje tylko treści znalezione w internecie. Wtyczka tworzona na potrzeby prywywatne.</disclaimer>
                 <summary lang="en">FanFilm Lite</summary>
-                <description lang="en">Addon remastered by CHERRY TEAM. Mod by T.
-                </description>
+                <description lang="en">Movie and TVShows plugin</description>
                 <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.
                 </disclaimer>
                 <platform>all</platform>
