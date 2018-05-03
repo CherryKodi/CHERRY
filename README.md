@@ -31,25 +31,25 @@ rel="nofollow">2018-4-17</a></td>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kreskowki/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kreskowki/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>KRESKÓWKI</td>
-<td>1.4</td>
+<td>1.5</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.kreskowki" 
- rel="nofollow">2018-4-28</a></td>
+ rel="nofollow">2018-5-03</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiPoPolsku/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiPoPolsku/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>BajkiPoPolsku</td>
-<td>1.0</td>
+<td>1.1</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.BajkiPoPolsku" 
-rel="nofollow">2018-4-28</a></td>
+rel="nofollow">2018-5-03</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiOnline/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiOnline/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>BajkiOnline</td>
-<td>1.0</td>
+<td>1.1</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.BajkiOnline" 
-rel="nofollow">2018-4-28</a></td>
+rel="nofollow">2018-5-03</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.ekstraklasa/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.ekstraklasa/icon.png" width="48" style="max-width:100%;"></a></td>
@@ -138,9 +138,9 @@ rel="nofollow">2018-5-03</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.fanfilm/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.fanfilm/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>Fan Film</td>
-<td>2018.04.23</td>
+<td>2018.04.26</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.fanfilm" 
-rel="nofollow">2018-4-28</a></td>
+rel="nofollow">2018-5-03</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
