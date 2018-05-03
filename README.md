@@ -66,6 +66,14 @@ rel="nofollow">2018-4-17</a></td>
 rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.FootballPowtorki/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.FootballPowtorki/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>FootballPowtorki</td>
+<td>0.1</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.FootballPowtorki" 
+rel="nofollow">2018-5-03</a></td>
+</tr>
+<tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>MONTYPYTHON</td>
 <td>1.0</td>
@@ -96,11 +104,35 @@ rel="nofollow">2018-4-17</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.dokumentalne.net/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.dokumentalne.net/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>Dokumentalne.net</td>
+<td>0.2</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.dokumentalne.net" 
+rel="nofollow">2018-5-03</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.filmydokumentalne.eu/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.filmydokumentalne.eu/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>Filmydokumentalne.eu</td>
+<td>0.1</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.filmydokumentalne.eu" 
+rel="nofollow">2018-5-03</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.TVP.pl/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.TVP.pl/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>TVP PL</td>
 <td>1.5.3</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.TVP.pl" 
 rel="nofollow">2018-4-17</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.wbijampl/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.wbijampl/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>Wbijampl</td>
+<td>0.1</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.wbijampl" 
+rel="nofollow">2018-5-03</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
@@ -190,5 +222,8 @@ https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.hsk.konflue
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/skin.hsk.konfluence" 
 rel="nofollow">2018-4-17</a></td>
 </tr>
+
+
+
 
   </div>

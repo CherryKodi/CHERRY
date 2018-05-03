@@ -156,6 +156,28 @@ provider-name="GalAnonim">
   </extension>
 </addon>
 
+<addon id="plugin.video.dokumentalne.net"
+version="0.2"
+name="Dokumentalne.net"
+provider-name=":)">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.resolveurl" />
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Dokumentalne.net Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z Dokumentalne.net</description>
+  <assets>
+    <icon>icon.png</icon>
+  </assets>
+  <news>opisy i szukajka</news>
+</extension>
+</addon>
+
 <addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="1.0" provider-name="GalAnonim">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -239,6 +261,50 @@ provider-name="GalAnonim">
                 </disclaimer>
                 <platform>all</platform>
         </extension>
+</addon>
+
+<addon id="plugin.video.filmydokumentalne.eu"
+version="0.1"
+name="Filmydokumentalne.eu"
+provider-name=":)">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.resolveurl" />
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">filmydokumentalne.eu Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z filmydokumentalne.eu</description>
+  <assets>
+    <icon>icon.png</icon>
+  </assets>
+  <news></news>
+</extension>
+</addon>
+
+<addon id="plugin.video.FootballPowtorki"
+version="0.1"
+name="Powtórki i skróty meczy"
+provider-name=":)">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.resolveurl" />
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Football Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z Football</description>
+  <assets>
+    <icon>icon.png</icon>
+  </assets>
+  <news></news>
+</extension>
 </addon>
 
 <addon id="plugin.video.kabarety"
@@ -420,6 +486,28 @@ provider-name="GalAnonim">
     <email></email>
     <source></source>
   </extension>
+</addon>
+
+<addon id="plugin.video.wbijampl"
+version="0.1"
+name="Wbijam.pl"
+provider-name=":)">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.resolveurl" />
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Wbijam Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z Wbijam.pl</description>
+  <assets>
+    <icon>icon.png</icon>
+  </assets>
+  <news></news>
+</extension>
 </addon>
 
 <addon id="plugin.video.webcamera"
