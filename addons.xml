@@ -205,7 +205,7 @@ provider-name=":)">
   </extension>
 </addon>
 
-<addon id="plugin.video.fanfilm" name="FanFilm - MrKnow"  version="2018.04.26" provider-name="MrUnknow" >
+<addon id="plugin.video.fanfilm" name="FanFilm - MrKnow"  version="2018.05.10" provider-name="MrUnknow" >
 <requires>
   <import addon="xbmc.python" version="2.1.0" />
   <import addon="script.module.requests"/>
@@ -228,7 +228,7 @@ provider-name=":)">
   <description lang="en_GB">Plugin z filmami i serialami</description>
   <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością serwisów trzecich. Wtyczka agreguje tylko treści znalezione w internecie. Wtyczka tworzona na potrzeby prywywatne.</disclaimer>
   <assets>
-    <icon>icon.jpg</icon>
+    <icon>icon.png</icon>
   </assets>
 </extension>
 </addon>
