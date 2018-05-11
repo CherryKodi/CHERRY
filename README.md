@@ -69,9 +69,9 @@ rel="nofollow">2018-4-17</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.FootballPowtorki/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.FootballPowtorki/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>FootballPowtorki</td>
-<td>0.1</td>
+<td>0.2</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.FootballPowtorki" 
-rel="nofollow">2018-5-03</a></td>
+rel="nofollow">2018-5-11</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png" width="48" style="max-width:100%;"></a></td>
@@ -138,9 +138,9 @@ rel="nofollow">2018-5-03</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.fanfilm/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.fanfilm/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>Fan Film</td>
-<td>2018.05.10</td>
+<td>2018.05.11</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.fanfilm" 
-rel="nofollow">2018-5-10</a></td>
+rel="nofollow">2018-5-11</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
