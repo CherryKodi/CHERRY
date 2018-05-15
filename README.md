@@ -24,9 +24,9 @@ rel="nofollow">2018-4-17</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.strefadb/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.strefadb/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>STREFADB</td>
-<td>1.4</td>
+<td>1.5</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.strefadb" 
-rel="nofollow">2018-4-17</a></td>
+rel="nofollow">2018-5-15</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kreskowki/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kreskowki/icon.png" width="48" style="max-width:100%;"></a></td>
@@ -39,17 +39,17 @@ rel="nofollow">2018-4-17</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiPoPolsku/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiPoPolsku/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>BajkiPoPolsku</td>
-<td>1.1</td>
+<td>1.2</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.BajkiPoPolsku" 
-rel="nofollow">2018-5-03</a></td>
+rel="nofollow">2018-5-15</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiOnline/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiOnline/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>BajkiOnline</td>
-<td>1.1</td>
+<td>1.2</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.BajkiOnline" 
-rel="nofollow">2018-5-03</a></td>
+rel="nofollow">2018-5-15</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.ekstraklasa/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.ekstraklasa/icon.png" width="48" style="max-width:100%;"></a></td>
@@ -69,23 +69,23 @@ rel="nofollow">2018-4-17</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.FootballPowtorki/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.FootballPowtorki/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>FootballPowtorki</td>
-<td>0.2</td>
+<td>0.3</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.FootballPowtorki" 
-rel="nofollow">2018-5-11</a></td>
+rel="nofollow">2018-5-15</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.montypython/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>MONTYPYTHON</td>
-<td>1.0</td>
+<td>1.1</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.montypython" 
-rel="nofollow">2018-4-17</a></td>
+rel="nofollow">2018-5-15</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kabarety/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kabarety/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>KABARETY</td>
-<td>1.0</td>
+<td>1.1</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.kabarety" 
-rel="nofollow">2018-4-17</a></td>
+rel="nofollow">2018-5-15</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
@@ -106,9 +106,9 @@ rel="nofollow">2018-4-17</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.dokumentalne.net/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.dokumentalne.net/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>Dokumentalne.net</td>
-<td>0.2</td>
+<td>0.3</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.dokumentalne.net" 
-rel="nofollow">2018-5-03</a></td>
+rel="nofollow">2018-5-15</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
@@ -146,9 +146,9 @@ rel="nofollow">2018-5-11</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.fanfilm.lite/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.fanfilm.lite/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>FanFilm Lite - MrKnow</td>
-<td>2018.05.10</td>
+<td>2018.05.11</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.fanfilm.lite" 
-rel="nofollow">2018-5-10</a></td>
+rel="nofollow">2018-5-15</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
