@@ -130,7 +130,7 @@ rel="nofollow">2018-4-17</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.wbijampl/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.wbijampl/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>Wbijampl</td>
-<td>0.1</td>
+<td>0.3</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.wbijampl" 
 rel="nofollow">2018-5-03</a></td>
 </tr>
