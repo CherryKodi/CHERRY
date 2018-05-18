@@ -795,7 +795,7 @@ CHERRY TV nie dostarcza bezpośrednio telewizji, filmów, seriali, muzyki ani ż
   </extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="6.0.09" provider-name="jsergio">
+<addon id="script.module.resolveurl" name="ResolveURL" version="6.0.6" provider-name="jsergio">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" optional="true" />
