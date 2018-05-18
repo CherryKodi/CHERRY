@@ -14,6 +14,20 @@
 </thead>
 <tbody>
 <tr>
+<td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.audio.wolnelektury/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.audio.wolnelektury/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>Wolne Lektury</td>
+<td>0.1</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.audio.wolnelektury" 
+rel="nofollow">2018-5-18</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kreskoweczki/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.kreskoweczki/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>Kreskóweczki.pl</td>
+<td>0.3</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.kreskoweczki" 
+rel="nofollow">2018-5-18</a></td>
+</tr>
+<tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.anime/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.anime/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>ANIME</td>
 <td>1.3</td>
