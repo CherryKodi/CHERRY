@@ -72,6 +72,27 @@
 
 </addon>
 
+<addon id="plugin.audio.wolnelektury"
+version="0.1"
+name="Wolne Lektury"
+provider-name=":)">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>audio</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Wolne Lektury Plugin Audio</summary>
+  <description lang="en_GB">Plugin z Wolne Lektury</description>
+  <assets>
+    <icon>icon.png</icon>
+  </assets>
+  <news></news>
+</extension>
+</addon>
+
 <addon id="plugin.video.anime"
 version="1.3"
 name="Anime"
@@ -354,6 +375,29 @@ provider-name="GalAnonim">
     <fanart>fanart.jpg</fanart>
   </assets>
   <news>Sortowanie odcinków</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.kreskoweczki"
+version="0.3"
+name="Kreskoweczki.pl"
+provider-name=":)">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.resolveurl" />
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Kreskoweczki.pl Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z Kreskoweczki.pl</description>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news></news>
 </extension>
 </addon>
 
