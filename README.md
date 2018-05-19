@@ -206,6 +206,14 @@ rel="nofollow">2018-4-28</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
+https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.PLTW/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.PLTW/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>POLISH TEAM WIZARDS</td>
+<td>0.0.2</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.program.PLTW" 
+rel="nofollow">2018-5-19</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.cherrytv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/skin.cherrytv/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>SKIN CHERRY TV</td>
 <td>0.0.1</td>

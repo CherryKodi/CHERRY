@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.cherrytv" name="Cherry TV Wizard" version="1.7.4" provider-name="Kodi Cherry ">
+<addon id="plugin.audio.wolnelektury"
+version="0.1"
+name="Wolne Lektury"
+provider-name=":)">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>audio</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Wolne Lektury Plugin Audio</summary>
+  <description lang="en_GB">Plugin z Wolne Lektury</description>
+  <assets>
+    <icon>icon.png</icon>
+  </assets>
+  <news></news>
+</extension>
+</addon>
+
+<addon id="plugin.program.PLTW" name="Polish Team Wizards" version="0.0.1" provider-name="Polish Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -9,8 +30,8 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Cherry TV Wizard</summary>
-    <description lang="en">CHERRY TV Wizard allows you to gain access to the latest CHERRY TV Custom Builds.</description>
+    <summary lang="en">Polish Team Wizards</summary>
+    <description lang="en"></description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -72,29 +93,8 @@
 
 </addon>
 
-<addon id="plugin.audio.wolnelektury"
-version="0.1"
-name="Wolne Lektury"
-provider-name=":)">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>audio</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Wolne Lektury Plugin Audio</summary>
-  <description lang="en_GB">Plugin z Wolne Lektury</description>
-  <assets>
-    <icon>icon.png</icon>
-  </assets>
-  <news></news>
-</extension>
-</addon>
-
 <addon id="plugin.video.anime"
-version="1.3"
+version="1.2"
 name="Anime"
 provider-name="GalAnonim">
 <requires>
@@ -354,6 +354,29 @@ provider-name="GalAnonim">
 </extension>
 </addon>
 
+<addon id="plugin.video.kreskoweczki"
+version="0.3"
+name="Kreskoweczki.pl"
+provider-name=":)">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.resolveurl" />
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Kreskoweczki.pl Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z Kreskoweczki.pl</description>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news></news>
+</extension>
+</addon>
+
 <addon id="plugin.video.kreskowki"
 version="1.5"
 name="Kreskowki"
@@ -375,29 +398,6 @@ provider-name="GalAnonim">
     <fanart>fanart.jpg</fanart>
   </assets>
   <news>Sortowanie odcinków</news>
-</extension>
-</addon>
-
-<addon id="plugin.video.kreskoweczki"
-version="0.3"
-name="Kreskoweczki.pl"
-provider-name=":)">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Kreskoweczki.pl Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z Kreskoweczki.pl</description>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news></news>
 </extension>
 </addon>
 
@@ -579,7 +579,7 @@ provider-name="Nieznany">
 </extension>
 </addon>
 
-<addon id="repository.cherrytv" name="[I][COLOR=blue]CHERRY[/COLOR] [COLOR=red]TV[/COLOR][/I] Repository" provider-name="KODI CHERRY" version="1.3.5">
+<addon id="repository.cherrytv" name="[I][COLOR=blue]CHERRY[/COLOR] [COLOR=red]TV[/COLOR][/I] Repository" provider-name="KODI CHERRY" version="1.3.6">
   <extension point="xbmc.addon.repository">
     <info>https://raw.githubusercontent.com/CherryKodi/CHERRY/master/addons.xml</info>
     <checksum>https://raw.githubusercontent.com/CherryKodi/CHERRY/master/addons.xml.md5</checksum>
