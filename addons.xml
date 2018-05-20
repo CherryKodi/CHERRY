@@ -596,13 +596,13 @@ CHERRY TV nie dostarcza bezpośrednio telewizji, filmów, seriali, muzyki ani ż
   </extension>
 </addon>
 
-<addon id="repository.kimshiu" name="Kim Shiu REPO" provider-name="Kim Shiu" version="0.0.1">
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kimshiu" name="[COLOR orange][B]Kim Repo[/B][/COLOR]" provider-name="[COLOR red][B]*** Kim Shiu ***[/B][/COLOR]" version="1.0.2">
 
   <extension point="xbmc.addon.repository">
-    <info>LINK DO PLIKU addons.xml</info>
-    <checksum>LINK DO PLIKU addons.xml.md5</checksum>
-    <datadir zip="true">LINK DO FOLDERU FTP  lub GITHUB..../qwer</datadir>
+    <info>http://kz.cherrytv.webd.pl/Addons/addons.xml</info>
+    <checksum>http://kz.cherrytv.webd.pl/Addons/addons.xml.md5</checksum>
+    <datadir zip="true">http://kz.cherrytv.webd.pl/Addons/</datadir>
   </extension>
 </addon>
 

@@ -176,9 +176,9 @@ rel="nofollow">2018-4-17</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.kimshiu/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.kimshiu/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>REPOZYTORIUM KimShiu</td>
-<td>0.0.2</td>
+<td>1.0.2</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.kimshiu" 
-rel="nofollow">2018-4-28</a></td>
+rel="nofollow">2018-5-20</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
