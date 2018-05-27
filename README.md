@@ -112,9 +112,9 @@ rel="nofollow">2018-4-17</a></td>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.webcamera/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.webcamera/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>WEBCAMERA</td>
-<td>1.1</td>
+<td>1.2</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.webcamera" 
-rel="nofollow">2018-4-17</a></td>
+rel="nofollow">2018-5-27</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
@@ -152,9 +152,9 @@ rel="nofollow">2018-5-03</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.fanfilm/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.fanfilm/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>Fan Film</td>
-<td>2018.05.11</td>
+<td>2018.05.27</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.fanfilm" 
-rel="nofollow">2018-5-11</a></td>
+rel="nofollow">2018-5-27</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
