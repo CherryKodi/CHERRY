@@ -229,7 +229,7 @@ provider-name=":)">
   </extension>
 </addon>
 
-<addon id="plugin.video.fanfilm" name="FanFilm - MrKnow"  version="2018.05.11" provider-name="MrUnknow" >
+<addon id="plugin.video.fanfilm" name="FanFilm - MrKnow"  version="2018.05.27" provider-name="MrUnknow" >
 <requires>
   <import addon="xbmc.python" version="2.1.0" />
   <import addon="script.module.requests"/>
@@ -556,7 +556,7 @@ provider-name=":)">
 </addon>
 
 <addon id="plugin.video.webcamera"
-version="1.1"
+version="1.2"
 name="Kamerki online"
 provider-name="Nieznany">
 <requires>
@@ -638,7 +638,7 @@ CHERRY TV nie dostarcza bezpośrednio telewizji, filmów, seriali, muzyki ani ż
 	</extension>
 </addon>
 
-<addon id="script.fanfilm.media" version="2018.04.14" name="FanFilm Themepak" provider-name="T" >
+<addon id="script.fanfilm.media" version="2018.05.20" name="FanFilm Themepak" provider-name="G+T" >
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
