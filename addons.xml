@@ -229,7 +229,7 @@ provider-name=":)">
   </extension>
 </addon>
 
-<addon id="plugin.video.fanfilm" name="FanFilm - MrKnow"  version="2018.05.27" provider-name="MrUnknow" >
+<addon id="plugin.video.fanfilm" name="FanFilm - MrKnow"  version="2018.06.01" provider-name="MrUnknow" >
 <requires>
   <import addon="xbmc.python" version="2.1.0" />
   <import addon="script.module.requests"/>
