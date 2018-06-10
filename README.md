@@ -160,9 +160,9 @@ rel="nofollow">2018-6-10</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.fanfilm.lite/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.fanfilm.lite/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>FanFilm Lite - MrKnow</td>
-<td>2018.05.11</td>
+<td>2018.06.10</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.fanfilm.lite" 
-rel="nofollow">2018-5-15</a></td>
+rel="nofollow">2018-6-10</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="

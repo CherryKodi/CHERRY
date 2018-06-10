@@ -257,7 +257,7 @@ provider-name=":)">
 </extension>
 </addon>
 
-<addon id="plugin.video.fanfilm.lite" name="FanFilm Lite - MrKnow" version="2018.05.11" provider-name="MrUnknow + notoco">
+<addon id="plugin.video.fanfilm.lite" name="FanFilm Lite - MrKnow" version="2018.06.10" provider-name="MrUnknow + notoco">
         <requires>
                 <import addon="xbmc.python" version="2.1.0" />
                 <import addon="script.module.requests"/>
