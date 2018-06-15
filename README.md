@@ -53,9 +53,9 @@ rel="nofollow">2018-5-15</a></td>
 <td><a target="_blank" href="
 https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiPoPolsku/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.video.BajkiPoPolsku/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>BajkiPoPolsku</td>
-<td>1.2</td>
+<td>1.3</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.video.BajkiPoPolsku" 
-rel="nofollow">2018-5-15</a></td>
+rel="nofollow">2018-6-15</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="
