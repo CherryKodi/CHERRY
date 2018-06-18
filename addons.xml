@@ -94,7 +94,7 @@ provider-name=":)">
 </addon>
 
 <addon id="plugin.video.anime"
-version="1.4"
+version="1.5"
 name="Anime"
 provider-name="GalAnonim">
 <requires>
