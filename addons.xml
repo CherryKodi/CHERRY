@@ -2,7 +2,7 @@
 <addons>
 
 <addon id="plugin.audio.wolnelektury"
-version="0.3"
+version="2018.07.17.0"
 name="Wolne Lektury"
 provider-name="-">
 <requires>
@@ -24,7 +24,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.anime"
-version="1.6"
+version="2018.07.26.1"
 name="Anime"
 provider-name="-">
 <requires>
@@ -49,7 +49,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.BajkiOnline"
-version="1.4"
+version="2018.07.26.0"
 name="Bajki online"
 provider-name="-">
 <requires>
@@ -72,7 +72,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.BajkiPoPolsku"
-version="1.5"
+version="2018.07.26.0"
 name="Bajki po polsku"
 provider-name="-">
 <requires>
@@ -95,7 +95,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.dokumentalne.net"
-version="0.4"
+version="2018.07.26.0"
 name="Dokumentalne.net"
 provider-name="-">
 <requires>
@@ -118,7 +118,7 @@ provider-name="-">
 </extension>
 </addon>
 
-<addon id="plugin.video.fanfilm" name="FanFilm" version="2018.06.23" provider-name="-">
+<addon id="plugin.video.fanfilm" name="FanFilm" version="2018.07.30.0" provider-name="-">
         <requires>
                 <import addon="xbmc.python" version="2.1.0" />
                 <import addon="script.module.ptw" />
@@ -147,7 +147,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.filmydokumentalne.eu"
-version="0.3"
+version="2018.07.26.0"
 name="Filmydokumentalne.eu"
 provider-name="-">
 <requires>
@@ -171,7 +171,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.FootballPowtorki"
-version="0.4"
+version="2018.07.26.0"
 name="Powtórki i skróty meczów"
 provider-name="-">
 <requires>
@@ -195,7 +195,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.kabarety"
-version="1.2"
+version="2018.07.26.0"
 name="Kabarety"
 provider-name="-">
 <requires>
@@ -220,7 +220,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.kreskoweczki"
-version="0.6"
+version="2018.07.17.0"
 name="Kreskoweczki.pl"
 provider-name="-">
 <requires>
@@ -244,7 +244,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.kreskowki"
-version="1.7"
+version="2018.07.17.0"
 name="Kreskowki"
 provider-name="-">
 <requires>
@@ -269,7 +269,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.montypython"
-version="1.2"
+version="2018.07.17.0"
 name="MontyPython"
 provider-name="-">
 <requires>
@@ -294,7 +294,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.strefadb"
-version="1.7"
+version="2018.07.26.0"
 name="StrefaDB"
 provider-name="-">
 <requires>
@@ -314,12 +314,12 @@ provider-name="-">
     <icon>icon.jpg</icon>
     <fanart>fanart.jpg</fanart>
   </assets>
-  <news>fix2</news>
+  <news>db heroes</news>
 </extension>
 </addon>
 
 <addon id="plugin.video.wbijampl"
-version="0.4"
+version="2018.07.17.0"
 name="Wbijam.pl"
 provider-name="-">
 <requires>
@@ -342,7 +342,31 @@ provider-name="-">
 </extension>
 </addon>
 
-<addon id="script.fanfilm.media" version="2018.05.20" name="FanFilm Themepak" provider-name="-" >
+<addon id="plugin.video.wizjatv"
+version="2018.08.15.0"
+name="WizjaTV"
+provider-name="-">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.requests"/>
+  <import addon="script.module.ptw"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">WizjaTV Plugin Wideo</summary>
+  <description lang="en_GB">Plugin z WizjaTV</description>
+  <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością WizjaTV. Wtyczka tworzona na potrzeby prywatne.</disclaimer>
+  <assets>
+    <icon>icon.jpg</icon>
+    <fanart>fanart.png</fanart>
+  </assets>
+  <news></news>
+</extension>
+</addon>
+
+<addon id="script.fanfilm.media" version="2018.07.17.0" name="FanFilm Themepak" provider-name="-" >
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
@@ -354,7 +378,7 @@ provider-name="-">
 	</extension>
 </addon>
 
-<addon id="script.fanfilm.metadata" version="1.0.4" name="FanFilm Metadata" provider-name="fanfilm">
+<addon id="script.fanfilm.metadata" version="2018.07.17.0" name="FanFilm Metadata" provider-name="fanfilm">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
@@ -366,7 +390,7 @@ provider-name="-">
 	</extension>
 </addon>
 
-<addon id="script.module.ptw" name="PTW Module" version="1.1" provider-name="PTW">
+<addon id="script.module.ptw" name="PTW Module" version="2018.07.24.0" provider-name="PTW">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
@@ -379,10 +403,10 @@ provider-name="-">
 	</extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="6.1.3" provider-name="jsergio">
+<addon id="script.module.resolveurl" name="ResolveURL" version="6.1.5" provider-name="jsergio">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="plugin.video.youtube" optional="true" />
+		<import addon="plugin.video.youtube" />
 		<import addon="script.module.python.twitch" optional="true" />
 		<import addon="script.module.cryptopy" version="1.2.6" optional="true" />
 		<import addon="plugin.video.gdrive" optional="true" />
