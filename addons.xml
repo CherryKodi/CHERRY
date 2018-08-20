@@ -294,7 +294,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.strefadb"
-version="2018.07.26.0"
+version="2018.08.20.0"
 name="StrefaDB"
 provider-name="-">
 <requires>
@@ -314,7 +314,7 @@ provider-name="-">
     <icon>icon.jpg</icon>
     <fanart>fanart.jpg</fanart>
   </assets>
-  <news>db heroes</news>
+  <news></news>
 </extension>
 </addon>
 
