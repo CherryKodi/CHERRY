@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-
 <addon id="plugin.audio.wolnelektury"
 version="2018.07.17.0"
 name="Wolne Lektury"
@@ -48,52 +47,6 @@ provider-name="-">
 </extension>
 </addon>
 
-<addon id="plugin.video.BajkiOnline"
-version="2018.07.26.0"
-name="Bajki online"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">BajkiOnline Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z BajkiOnline</description>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-</extension>
-</addon>
-
-<addon id="plugin.video.BajkiPoPolsku"
-version="2018.07.26.0"
-name="Bajki po polsku"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">BajkiPoPolsku Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z BajkiPoPolsku</description>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-</extension>
-</addon>
-
 <addon id="plugin.video.dokumentalne.net"
 version="2018.07.26.0"
 name="Dokumentalne.net"
@@ -118,7 +71,7 @@ provider-name="-">
 </extension>
 </addon>
 
-<addon id="plugin.video.fanfilm" name="FanFilm" version="2018.07.30.0" provider-name="-">
+<addon id="plugin.video.fanfilm" name="FanFilm" version="2018.09.01.0" provider-name="-">
         <requires>
                 <import addon="xbmc.python" version="2.1.0" />
                 <import addon="script.module.ptw" />
@@ -294,7 +247,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.strefadb"
-version="2018.08.20.0"
+version="2018.09.01.0"
 name="StrefaDB"
 provider-name="-">
 <requires>
@@ -314,7 +267,7 @@ provider-name="-">
     <icon>icon.jpg</icon>
     <fanart>fanart.jpg</fanart>
   </assets>
-  <news></news>
+  <news>db heroes</news>
 </extension>
 </addon>
 
