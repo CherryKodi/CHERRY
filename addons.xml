@@ -356,7 +356,7 @@ provider-name="-">
 	</extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="6.1.5" provider-name="jsergio">
+<addon id="script.module.resolveurl" name="ResolveURL" version="6.2.1" provider-name="jsergio">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" />
