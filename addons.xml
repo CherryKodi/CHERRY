@@ -197,7 +197,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.kreskowki"
-version="2018.07.17.0"
+version="2018.10.21.0"
 name="Kreskowki"
 provider-name="-">
 <requires>
@@ -247,7 +247,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.strefadb"
-version="2018.09.01.0"
+version="2018.10.21.0"
 name="StrefaDB"
 provider-name="-">
 <requires>
@@ -343,7 +343,7 @@ provider-name="-">
 	</extension>
 </addon>
 
-<addon id="script.module.ptw" name="PTW Module" version="2018.07.24.0" provider-name="PTW">
+<addon id="script.module.ptw" name="PTW Module" version="2018.10.13.0" provider-name="PTW">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
@@ -356,7 +356,7 @@ provider-name="-">
 	</extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="6.2.1" provider-name="jsergio">
+<addon id="script.module.resolveurl" name="ResolveURL" version="6.3.4" provider-name="jsergio">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" />
