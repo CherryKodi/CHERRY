@@ -632,7 +632,7 @@ provider-name="Nieznany">
 </extension>
 </addon>
 
-<addon id="repository.cherrytv" name="[I][COLOR=blue]CHERRY[/COLOR] [COLOR=red]TV[/COLOR][/I] Repository" provider-name="KODI CHERRY" version="1.3.6">
+<addon id="repository.cherrytv" name="[I][COLOR=blue]CHERRY[/COLOR] [COLOR=red]TV[/COLOR][/I] Repository" provider-name="KODI CHERRY" version="1.3.7">
   <extension point="xbmc.addon.repository">
     <info>https://raw.githubusercontent.com/CherryKodi/CHERRY/master/addons.xml</info>
     <checksum>https://raw.githubusercontent.com/CherryKodi/CHERRY/master/addons.xml.md5</checksum>
