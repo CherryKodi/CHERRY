@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+
 <addon id="plugin.audio.wolnelektury"
 version="2018.07.17.0"
 name="Wolne Lektury"
@@ -24,284 +25,6 @@ provider-name="-">
 
 <addon id="plugin.video.anime"
 version="2018.11.16.1"
-name="Anime"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Anime Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z anime</description>
-  <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością AnimeZone. Wtyczka tworzona na potrzeby prywatne.</disclaimer>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>fix</news>
-</extension>
-</addon>
-
-<addon id="plugin.video.dokumentalne.net"
-version="2018.07.26.0"
-name="Dokumentalne.net"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Dokumentalne.net Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z Dokumentalne.net</description>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>opisy i szukajka</news>
-</extension>
-</addon>
-
-<addon id="plugin.video.fanfilm" name="FanFilm" version="2018.09.01.1" provider-name="-">
-        <requires>
-                <import addon="xbmc.python" version="2.1.0" />
-                <import addon="script.module.ptw" />
-                <import addon="script.module.requests"/>
-                <import addon="script.module.metahandler" />
-                <import addon="script.module.beautifulsoup4"/>
-                <import addon="plugin.video.youtube" optional="true" />
-                <import addon="script.module.resolveurl" />
-                <import addon="script.fanfilm.media" />
-                <import addon="script.fanfilm.metadata" />
-        </requires>
-        <extension point="xbmc.python.pluginsource" library="default.py">
-                <provides>video</provides>
-        </extension>
-        <extension point="xbmc.service" library="service.py" start="startup" />
-        <extension point="xbmc.addon.metadata">
-                <summary lang="pl">FanFilm</summary>
-		<description lang="pl">Plugin z filmami i serialami</description>
-		<disclaimer lang="pl">Wszelkie treści multimedialne są własnością serwisów trzecich. Wtyczka agreguje tylko treści znalezione w internecie. Wtyczka tworzona na potrzeby prywywatne.</disclaimer>
-                <summary lang="en">FanFilm</summary>
-                <description lang="en">Movie and TVShows plugin</description>
-                <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.
-                </disclaimer>
-                <platform>all</platform>
-        </extension>
-</addon>
-
-<addon id="plugin.video.filmydokumentalne.eu"
-version="2018.07.26.0"
-name="Filmydokumentalne.eu"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">filmydokumentalne.eu Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z filmydokumentalne.eu</description>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news></news>
-</extension>
-</addon>
-
-<addon id="plugin.video.FootballPowtorki"
-version="2018.07.26.0"
-name="Powtórki i skróty meczów"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Football Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z Football</description>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news></news>
-</extension>
-</addon>
-
-<addon id="plugin.video.kreskoweczki"
-version="2018.07.17.0"
-name="Kreskoweczki.pl"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Kreskoweczki.pl Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z Kreskoweczki.pl</description>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news></news>
-</extension>
-</addon>
-
-<addon id="plugin.video.kreskowki"
-version="2018.07.17.0"
-name="Kreskowki"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Kreskowki Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z kreskówkami</description>
-  <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością KreskowkaZone. Wtyczka tworzona na potrzeby prywatne.</disclaimer>
-  <assets>
-    <icon>icon.jpg</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>Sortowanie odcinków</news>
-</extension>
-</addon>
-
-<addon id="plugin.video.strefadb"
-version="2018.12.27.0"
-name="StrefaDB"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">StrefaDB Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z odcinkami Dragon Ball. Aby obejrzeć treści wideo należy założyć konto na strefadb.pl</description>
-  <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością strefadb.pl</disclaimer>
-  <assets>
-    <icon>icon.jpg</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>db heroes</news>
-</extension>
-</addon>
-
-<addon id="plugin.video.wbijampl"
-version="2018.12.27.0"
-name="Wbijam.pl"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Wbijam Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z Wbijam.pl</description>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>fix</news>
-</extension>
-</addon>
-
-<addon id="script.module.ptw" name="PTW Module" version="2018.12.27.0" provider-name="PTW">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="script.module.beautifulsoup4"/>
-		<import addon="script.module.requests"/>
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">PTW</summary>
-	</extension>
-</addon>
-
-<addon id="script.module.resolveurl" name="ResolveURL" version="6.3.7" provider-name="jsergio">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="plugin.video.youtube" optional="true" />
-		<import addon="script.module.python.twitch" optional="true" />
-		<import addon="script.module.cryptopy" version="1.2.6" optional="true" />
-		<import addon="plugin.video.gdrive" optional="true" />
-		<import addon="script.module.requests"/>
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.python.pluginsource" library="lib/default.py" />
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">Resolve common video host URL's to be playable in XBMC/Kodi.</summary>
-		<summary lang="es">Resolver enlaces a videos de sitios populares para poder reproducirlos en XBMC/Kodi.</summary>
-		<summary lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju.</summary>
-		<description lang="en">Resolve common video host URL's to be playable in XBMC/Kodi, simplify addon development of video plugins requiring multi video hosts.</description>
-		<description lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju, pojednostavnjuje razvoj priključaka za video dodatke koji zahtjevaju višestruke video izvore.</description>
-	</extension>
-</addon>
-<addon id="plugin.audio.wolnelektury"
-version="2018.07.17.0"
-name="Wolne Lektury"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>audio</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Wolne Lektury Plugin Audio</summary>
-  <description lang="en_GB">Plugin z Wolne Lektury</description>
-  <assets>
-    <icon>icon.png</icon>
-  </assets>
-  <news></news>
-</extension>
-</addon>
-
-<addon id="plugin.video.anime"
-version="2018.09.19.0"
 name="Anime"
 provider-name="-">
 <requires>
@@ -377,30 +100,6 @@ provider-name="-">
         </extension>
 </addon>
 
-<addon id="plugin.video.filmydokumentalne.eu"
-version="2018.07.26.0"
-name="Filmydokumentalne.eu"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">filmydokumentalne.eu Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z filmydokumentalne.eu</description>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news></news>
-</extension>
-</addon>
-
 <addon id="plugin.video.FootballPowtorki"
 version="2018.07.26.0"
 name="Powtórki i skróty meczów"
@@ -426,9 +125,9 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.kabarety"
-version="2018.07.26.0"
-name="Kabarety"
-provider-name="-">
+       version="2019.01.15.0"
+       name="Kabarety"
+       provider-name="-">
 <requires>
   <import addon="xbmc.python" version="2.25.0"/>
   <import addon="script.module.ptw" />
@@ -475,28 +174,28 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.kreskowki"
-version="2018.10.21.0"
-name="Kreskowki"
-provider-name="-">
-<requires>
-  <import addon="xbmc.python" version="2.25.0"/>
-  <import addon="script.module.ptw" />
-  <import addon="script.module.resolveurl" />
-  <import addon="script.module.requests"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Kreskowki Plugin Wideo</summary>
-  <description lang="en_GB">Plugin z kreskówkami</description>
-  <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością KreskowkaZone. Wtyczka tworzona na potrzeby prywatne.</disclaimer>
-  <assets>
-    <icon>icon.jpg</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>Sortowanie odcinków</news>
-</extension>
+       version="2019.01.02.0"
+       name="Kreskowki"
+       provider-name="-">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.ptw" />
+        <import addon="script.module.resolveurl" />
+        <import addon="script.module.requests"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Kreskowki Plugin Wideo</summary>
+        <description lang="en_GB">Plugin z kreskówkami</description>
+        <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością KreskowkaZone. Wtyczka tworzona na potrzeby prywatne.</disclaimer>
+        <assets>
+            <icon>icon.jpg</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <news>Sortowanie odcinków</news>
+    </extension>
 </addon>
 
 <addon id="plugin.video.montypython"
@@ -524,8 +223,35 @@ provider-name="-">
 </extension>
 </addon>
 
+    <addon id="plugin.video.shinden"
+           version="2019.01.17.0"
+           name="Shinden"
+           provider-name="-">
+        <requires>
+            <import addon="xbmc.python" version="2.25.0"/>
+            <import addon="script.module.ptw"/>
+            <import addon="script.module.resolveurl"/>
+            <import addon="script.module.requests"/>
+            <import addon="script.module.pyxbmct"/>
+        </requires>
+        <extension point="xbmc.python.pluginsource" library="main.py">
+            <provides>video</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="en">Shinden Plugin Wideo</summary>
+            <description lang="en_GB">Plugin z Shinden</description>
+            <disclaimer lang="en_GB">Wszelkie treści multimedialne są własnością Shinden. Wtyczka tworzona na potrzeby
+                prywatne.
+            </disclaimer>
+            <assets>
+                <icon>icon.png</icon>
+                <fanart>fanart.png</fanart>
+            </assets>
+        </extension>
+    </addon>
+
 <addon id="plugin.video.strefadb"
-version="2018.10.21.0"
+version="2018.12.27.0"
 name="StrefaDB"
 provider-name="-">
 <requires>
@@ -550,7 +276,7 @@ provider-name="-">
 </addon>
 
 <addon id="plugin.video.wbijampl"
-version="2018.07.17.0"
+version="2018.12.27.0"
 name="Wbijam.pl"
 provider-name="-">
 <requires>
@@ -621,7 +347,7 @@ provider-name="-">
 	</extension>
 </addon>
 
-<addon id="script.module.ptw" name="PTW Module" version="2018.10.13.0" provider-name="PTW">
+    <addon id="script.module.ptw" name="PTW Module" version="2019.01.13.1" provider-name="PTW">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
@@ -634,10 +360,10 @@ provider-name="-">
 	</extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="6.3.4" provider-name="jsergio">
+    <addon id="script.module.resolveurl" name="ResolveURL" version="6.3.8" provider-name="jsergio">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="plugin.video.youtube" />
+		<import addon="plugin.video.youtube" optional="true" />
 		<import addon="script.module.python.twitch" optional="true" />
 		<import addon="script.module.cryptopy" version="1.2.6" optional="true" />
 		<import addon="plugin.video.gdrive" optional="true" />
@@ -817,9 +543,6 @@ provider-name="-">
     <import addon="script.module.simplejson" />
     <import addon="script.common.plugin.cache" />
     <import addon="script.module.liveresolver" />
-
-
-
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video audio</provides>
