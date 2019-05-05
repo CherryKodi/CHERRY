@@ -23,7 +23,7 @@ rel="nofollow">2019-5-05</a></td>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.dobre/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.dobre/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>REPOZYTORIUM DOBRE</td>
-<td>0.3.9</td>
+<td>0.4.0</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.dobre" 
 rel="nofollow">2019-5-05</a></td>
 </tr>

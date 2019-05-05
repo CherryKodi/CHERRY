@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 
-<addon id="repository.dobre" name="PTW Collection" provider-name="KODI CHERRY" version="0.3.9">
+<addon id="repository.dobre" name="PTW Collection" provider-name="KODI CHERRY" version="0.4.0">
   <extension point="xbmc.addon.repository">
     <info>https://polishteam.ru/REPA/Collection/addons.xml</info>
     <checksum>https://polishteam.ru/REPA/Collection/addons.xml.md5</checksum>
