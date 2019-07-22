@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 
-<addon id="repository.dobre" name="PTW Collection" provider-name="KODI CHERRY" version="0.4.0">
-  <extension point="xbmc.addon.repository">
-    <info>https://polishteam.ru/REPA/Collection/addons.xml</info>
-    <checksum>https://polishteam.ru/REPA/Collection/addons.xml.md5</checksum>
-    <datadir zip="true">https://polishteam.ru/REPA/Collection/zip/</datadir>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">PTW Collection</summary>
-    <description lang="en">Sprawdzone wtyczki z repozytorium podpisa</description>
-	<disclaimer lang="en">Kodi jest programem darmowym. Wtyczki, które są zawarte w projekcie CHERRY TV  są również darmowe i powszechnie dostępne w internecie dla każdego.
-	CHERRY TV nie dostarcza bezpośrednio telewizji, filmów, seriali, muzyki ani żadnych treści audio/wideo. CHERRY TV nie udostepnia telewizji online,korzysta jedynie z kont premium udostepnionych w sieci.Jest jedynie zbiorem wtyczek. Projekt ten ma jedynie ułatwić użytkownikowi ustawianie programu Kodiczy instalacje wtyczek . Jeżeli dana wtyczka nie działa zgodnie z założeniem należny kontaktować się z jej autorem. Jeżeli stan taki się utrzymuje dłużnej może zostać taka wtyczka usunięta oraz będzie szukana alternatywa.
-	</disclaimer>
-    <website>https://polishteam.ru/</website>
-    <platform>all</platform>
-  </extension>
-</addon>
-<addon id="repository.cherrytv" name="PTW Collection" provider-name="KODI CHERRY" version="1.3.9">
-  <extension point="xbmc.addon.repository">
-    <info>https://polishteam.ru/REPA/Collection/addons.xml</info>
-    <checksum>https://polishteam.ru/REPA/Collection/addons.xml.md5</checksum>
-    <datadir zip="true">https://polishteam.ru/REPA/Collection/zip/</datadir>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">PTW Collection</summary>
-    <description lang="en">Sprawdzone wtyczki z repozytorium podpisa</description>
-	<disclaimer lang="en">Kodi jest programem darmowym. Wtyczki, które są zawarte w projekcie CHERRY TV  są również darmowe i powszechnie dostępne w internecie dla każdego.
-	CHERRY TV nie dostarcza bezpośrednio telewizji, filmów, seriali, muzyki ani żadnych treści audio/wideo. CHERRY TV nie udostepnia telewizji online,korzysta jedynie z kont premium udostepnionych w sieci.Jest jedynie zbiorem wtyczek. Projekt ten ma jedynie ułatwić użytkownikowi ustawianie programu Kodiczy instalacje wtyczek . Jeżeli dana wtyczka nie działa zgodnie z założeniem należny kontaktować się z jej autorem. Jeżeli stan taki się utrzymuje dłużnej może zostać taka wtyczka usunięta oraz będzie szukana alternatywa.
-	</disclaimer>
-    <website>https://polishteam.ru/</website>
-    <platform>all</platform>
-  </extension>
-</addon>
+
 <addon id="repository.pltwcollection" name="PTW Collection" provider-name="KODI CHERRY" version="0.0.1">
   <extension point="xbmc.addon.repository">
     <info>https://polishteam.ru/REPA/Collection/addons.xml</info>
@@ -48,5 +17,20 @@
     <website>https://polishteam.ru/</website>
     <platform>all</platform>
   </extension>
+</addon>
+<addon id="repository.polishteam" name="PolishTeam_Repo" version="0.1.1" provider-name="Polish Team">
+	<extension point="xbmc.addon.repository" name="PolishTeam-Repo">
+		<info compressed="false">http://polishteam.ru/REPO/addons.xml</info>
+		<checksum>http://polishteam.ru/REPO/addons.xml.md5</checksum>
+		<datadir zip="true">http://polishteam.ru/REPO/</datadir>
+		<datadir zip="true">https://github.com/CherryKodi/PolishTeam/tree/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repozytorium wizardow Polish Team</summary>
+		<description>Druga WERSJA</description> 
+		<platform>all</platform>
+		<license>GNUv3</license>
+		<website>http://polishteam.ru/</website>
+	</extension>
 </addon>
 </addons>

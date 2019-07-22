@@ -14,18 +14,11 @@
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.cherrytv/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.cherrytv/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>REPOZYTORIUM CHERRYTV</td>
-<td>1.3.9</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.cherrytv" 
-rel="nofollow">2019-5-05</a></td>
-</tr>
-<tr>
-<td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.dobre/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.dobre/icon.png" width="48" style="max-width:100%;"></a></td>
-<td>REPOZYTORIUM DOBRE</td>
-<td>0.4.0</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.dobre" 
-rel="nofollow">2019-5-05</a></td>
+<td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.polishteam/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.polishteam/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>PolishTeam_Repo</td>
+<td>0.1.1</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.polishteam" 
+rel="nofollow">2019-7-22</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.pltwcollection/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.pltwcollection/icon.png" width="48" style="max-width:100%;"></a></td>
