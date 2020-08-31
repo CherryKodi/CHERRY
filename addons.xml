@@ -18,16 +18,16 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="repository.polishteam" name="PolishTeam_Repo" version="0.1.1" provider-name="Polish Team">
+<addon id="repository.polishteam" name="PolishTeam_Repo" version="0.1.2" provider-name="Polish Team">
 	<extension point="xbmc.addon.repository" name="PolishTeam-Repo">
 		<info compressed="false">http://polishteam.ru/REPO/addons.xml</info>
 		<checksum>http://polishteam.ru/REPO/addons.xml.md5</checksum>
 		<datadir zip="true">http://polishteam.ru/REPO/</datadir>
-		<datadir zip="true">https://github.com/CherryKodi/PolishTeam/tree/master/zips</datadir>
+		<datadir zip="true">https://github.com/CherryKodi/CHERRY/tree/master/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Repozytorium wizardow Polish Team</summary>
-		<description>Druga WERSJA</description> 
+		<description></description> 
 		<platform>all</platform>
 		<license>GNUv3</license>
 		<website>http://polishteam.ru/</website>
