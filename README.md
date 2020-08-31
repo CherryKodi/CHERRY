@@ -18,7 +18,7 @@
 <td>PolishTeam_Repo</td>
 <td>0.1.2</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.polishteam" 
-rel="nofollow">2019-7-22</a></td>
+rel="nofollow">2020-8-31</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.pltwcollection/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.pltwcollection/icon.png" width="48" style="max-width:100%;"></a></td>
