@@ -23,9 +23,16 @@ rel="nofollow">2019-7-22</a></td>
 <tr>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.pltwcollection/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/repository.pltwcollection/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>PTW COLLECTION</td>
-<td>0.1</td>
+<td>0.5</td>
 <td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.pltwcollection" 
-rel="nofollow">2019-5-05</a></td>
+rel="nofollow">2020-8-31</a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.autocompletion/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.autocompletion/icon.png" width="48" style="max-width:100%;"></a></td>
+<td>Plugin Autocompletion</td>
+<td>1.0.1.1</td>
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.pltwcollection" 
+rel="nofollow">2020-8-31</a></td>
 </tr>
 
 

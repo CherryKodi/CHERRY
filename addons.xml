@@ -33,4 +33,28 @@
 		<website>http://polishteam.ru/</website>
 	</extension>
 </addon>
+<addon id="plugin.program.autocompletion" name="AutoCompletion for virtual keyboard" version="1.0.1.1" provider-name="Philipp Temminghoff (phil65)">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.autocompletion" version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="plugin.py"/>
+    <extension point="xbmc.python.script" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">AutoCompletion for the virtual keyboard (needs skin support)</summary>
+        <description lang="en">AutoCompletion for the virtual keyboard (needs skin support)</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE Version 2.1, February 1999</license>
+        <source>https://github.com/phil65/plugin.program.autocompletion</source>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <!--            <fanart>resources/fanart.jpg</fanart>-->
+            <!--            <screenshot>resources/screenshot-01.jpg</screenshot>-->
+            <!--            <screenshot>resources/screenshot-02.jpg</screenshot>-->
+            <!--            <screenshot>resources/screenshot-03.jpg</screenshot>-->
+        </assets>
+    </extension>
+</addon>
 </addons>
