@@ -31,7 +31,7 @@ rel="nofollow">2020-8-31</a></td>
 <td><a target="_blank" href="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.autocompletion/icon.png"><img src="https://raw.githubusercontent.com/CherryKodi/CHERRY/master/zips/plugin.program.autocompletion/icon.png" width="48" style="max-width:100%;"></a></td>
 <td>Plugin Autocompletion</td>
 <td>1.0.1.1</td>
-<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/repository.pltwcollection" 
+<td><a href="https://github.com/CherryKodi/CHERRY/raw/master/zips/plugin.program.autocompletion" 
 rel="nofollow">2020-8-31</a></td>
 </tr>
 
